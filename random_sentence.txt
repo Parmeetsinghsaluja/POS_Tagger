@@ -1,0 +1,10 @@
+ /start U.N./np conviction/nn in/in township/nn they/ppss ask/vb If/cs the/at purpose/nn ././end
+ Probability of generating this sentence is 1.2630049590482592e-30
+ /start B/np-hl ,/,-hl Notte/np-hl :/:-hl/end
+ Probability of generating this sentence is 1.235319716190277e-12
+ /start halfway/rb ,/, as/cs no/at case/nn by/in the/at legislature/nn observations/nns in/in this/dt which/wdt had/hvd ,/, where/wrb I/ppss cure/vb the/at space/nn in/in the/at face/nn at/in This/dt order/nn over/in grocers/nns themselves/ppls and/cc be/be sharp/jj feet/nns at/in our/pp$ P'/nn if/cs an/at goals/nns of/in the/at Market/nn-tl was/bedz of/in twenty/cd jets/nns ././end
+ Probability of generating this sentence is 1.3465672502238537e-121
+ /start Lowell/np held/vbd up/rp to/in avenging/vbg distance/nn to/to define/vb A/at Russian/jj tasks/nns of/in Blockade/nn would/md be/be greatest/jjt interest/nn Several/ap real/jj members/nns were/bed to/to please/vb the/at part/nn is/bez merely/rb as/rb a/at scoreboard/nn 30/cd down/rp At/in the/at old/jj year/nn and/cc here/rb retaining/vbg out/rp there/rb can't/md* show/vb him/ppo to/in the/at critical/jj that/cs jungle/nn ''/'' ././end
+ Probability of generating this sentence is 5.693944071836391e-150
+ /start Even/rb two/cd science/nn of/in idea/nn ././end
+ Probability of generating this sentence is 5.935845056287469e-17
